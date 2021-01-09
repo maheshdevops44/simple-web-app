@@ -7,10 +7,8 @@
 <div class="container-fluid main">
 	<div class="row-fluid">
 		<div class="span10 offset1">
-			<h1> Hema DEVOPS2</h1>
-			<h1> Mohanraj Testing the commit message twice</h1>
-			<h1> Loka Mahesh DEVOPS Rocks Devops</h1>
-			<h1> Loka Mahesh Testing Jenkins file</h1>
+			<h1> 2021 this year i will be jenkins certified </h1>
+			
 
 				<div>
 
